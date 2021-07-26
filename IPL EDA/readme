@@ -1,0 +1,16 @@
+Libraries Used :
+(1) PANDAS
+(2) NUMPY
+(3) Seaborn
+(4) matplot
+(5) os
+(6) plotly
+(7) Folium
+
+PYTHON VERSION -- 3.8 (all libraries are install on anaconda prompt)
+
+If libraries are not install we can use command pip install library_name on command prompt or !pip install library_name in jupyter notebook.
+
+count plot,barplot,line plot,histogram,displot,subplot,pointplot,heatmap and other are use for visualization.
+
+using folium map trace the rush on a real map with given latitude and longitudes.
