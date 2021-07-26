@@ -5,12 +5,17 @@ Libraries Used :
 (4) matplot
 (5) os
 (6) plotly
-(7) Folium
+
 
 PYTHON VERSION -- 3.8 (all libraries are install on anaconda prompt)
 
 If libraries are not install we can use command pip install library_name on command prompt or !pip install library_name in jupyter notebook.
 
-count plot,barplot,line plot,histogram,displot,subplot,pointplot,heatmap and other are use for visualization.
+count plot,barplot,line plot,Box plot histogram,displot,subplot,pointplot,heatmap and other are use for visualization.
 
-using folium map trace the rush on a real map with given latitude and longitudes.
+Insights are 
+(1) Top player as per match and series 
+(2) lucky ground for a team
+(3) Map of series
+(4) Top 10 batsman and bolwer
+(5) Player wise analysis and comparison 
