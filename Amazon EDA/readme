@@ -1,0 +1,23 @@
+
+Libraries Used :
+(1) PANDAS
+(2) NUMPY
+(3) Seaborn
+(4) TextBlob
+(5) matplot
+(6) sqlite3
+(7) NLTK
+(8) re
+
+
+PYTHON VERSION -- 3.8 (all libraries are install on anaconda prompt)
+
+If libraries are not install we can use command pip install library_name on command prompt or !pip install library_name in jupyter notebook.
+
+This data contain the text form of data,which can be presented using textblob libraries as wordcloud.
+
+Dealing with stopwords and punctuation is a major challange during analysing data.
+
+Count plot,bar plot can be use for visualization.
+
+python's re library used for operation to filer text data like find urls and numbers in a text data.
